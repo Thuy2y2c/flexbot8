@@ -1,4 +1,5 @@
-# MiniFlex, a very cool man.
+# miniflex insane bot src ten trillion cps
 FlexBot 8.0 - A bot that uses MCStorm for all methods
 
-100k hai con 8-16, resell ban
+# to setup 
+too lazy hihi
