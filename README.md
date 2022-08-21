@@ -8,7 +8,8 @@ FlexBot 8.0 - A bot that uses MCStorm for all methods
   # enter the folder
   $ cd flexbot8
 
-i forgot
+  # install discord.js
+  # node bot.js
 
 # where do i put the token and the channel id + role id?
 `ayarlar.json`
